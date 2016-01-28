@@ -1,0 +1,3 @@
+Absolut Engine, a news publishing system once, more of content management system (CMS) today, aims to be a simple and flexible PHP framework. With introduction of modules in v1.70 and a rewrite in v1.72 everything seems to be on way to stable and efficient PHP framework.
+
+This is CMS with XHTML 1.0 Strict valid output, using PHP/MySQL, clean URLs/friendly URLs, SEO (search engine optimization) enabled CMS.
